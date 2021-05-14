@@ -1,5 +1,5 @@
 //********************************
-//有wifi配置但连不上时不再自动进入smartconfig，如果需要可以在连接wifi时按住flash键，直到出现Wconfig；
+//有wifi配置但连不上时不自动进入smartconfig，如果需要可以在连接wifi时按住flash键，直到出现Wconfig；
 //增加httpupdate，可以直接通过web更新固件；
 //按一下重启在Connwifi跳转到时间之前按下flash 8秒松开就能进入smartconfig模式重新配置WiFi
 //由于各个品牌的8266运行速度有差异可能出现松开flash无法进入smartconfig模式
